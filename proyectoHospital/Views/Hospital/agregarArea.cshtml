@@ -1,0 +1,34 @@
+﻿@model proyectoHospital.Models.Area
+
+@{
+    ViewData["Title"] = "agregarArea";
+}
+
+<h1>Agregar Área</h1>
+<a asp-action="listarAreas" class="btn btn-success"><i class="fas fa-arrow-left"></i></a>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="agregarArea">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="nom_area" class="control-label"></label>
+                <input asp-for="nom_area" class="form-control" />
+                <span asp-validation-for="nom_area" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @ViewBag.mensaje
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

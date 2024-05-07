@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\hospital\\listarareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\hospital\\listarareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\hospital\\listarmedicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\hospital\\listarmedicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\views\\hospital\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\views\\hospital\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|c:\\cibertec\\5tociclo\\dsw\\proyectos\\proyectohospital\\proyectohospital\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6902CE39-47BB-4B0A-BC8C-68D969243EB5}|proyectoHospital\\proyectoHospital.csproj|solutionrelative:proyectohospital\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Controllers\\HospitalController.cs",
+              "RelativeDocumentMoniker": "proyectoHospital\\Controllers\\HospitalController.cs",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Controllers\\HospitalController.cs",
+              "RelativeToolTip": "proyectoHospital\\Controllers\\HospitalController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwE0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:26:15.13Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "proyectoHospital\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "proyectoHospital\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:47:52.298Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T20:15:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T19:39:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "proyectoHospital\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "proyectoHospital\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T19:38:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "proyectoHospital\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "proyectoHospital\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T19:38:48.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "proyectoHospital\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "proyectoHospital\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T19:37:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T19:36:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "listarAreas.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\listarAreas.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Hospital\\listarAreas.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\listarAreas.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Hospital\\listarAreas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T19:23:10.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "listarMedicos.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\listarMedicos.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Hospital\\listarMedicos.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\listarMedicos.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Hospital\\listarMedicos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T19:23:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\Index.cshtml",
+              "RelativeDocumentMoniker": "proyectoHospital\\Views\\Hospital\\Index.cshtml",
+              "ToolTip": "C:\\Cibertec\\5toCiclo\\DSW\\Proyectos\\proyectoHospital\\proyectoHospital\\Views\\Hospital\\Index.cshtml",
+              "RelativeToolTip": "proyectoHospital\\Views\\Hospital\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T18:04:16.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

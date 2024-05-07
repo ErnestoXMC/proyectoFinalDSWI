@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = proyectoHospital
+build_property.RootNamespace = proyectoHospital
+build_property.ProjectDir = C:\Cibertec\5toCiclo\DSW\Proyectos\proyectoHospital\proyectoHospital\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Cibertec\5toCiclo\DSW\Proyectos\proyectoHospital\proyectoHospital
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/actualizarArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWN0dWFsaXphckFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/actualizarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWN0dWFsaXphck1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/actualizarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWN0dWFsaXphclBhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/agregarArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWdyZWdhckFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/agregarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWdyZWdhck1lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/agregarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcYWdyZWdhclBhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/eliminarArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcZWxpbWluYXJBcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/eliminarMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcZWxpbWluYXJNZWRpY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/eliminarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcZWxpbWluYXJQYWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/infoMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcaW5mb01lZGljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/infoPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcaW5mb1BhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/listarAreas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcbGlzdGFyQXJlYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Hospital/listarMedicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxcbGlzdGFyTWVkaWNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Inicio/IniciarSesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluaWNpYXJTZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Inicio/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cibertec/5toCiclo/DSW/Proyectos/proyectoHospital/proyectoHospital/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xsyt74xvdd

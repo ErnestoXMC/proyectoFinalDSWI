@@ -1,0 +1,79 @@
+﻿@model proyectoHospital.Models.Paciente
+
+@{
+    ViewData["Title"] = "eliminarPaciente";
+}
+
+<h1>
+    ¿Seguro que Quieres eliminar al paciente @Html.DisplayFor(model => model.nom_pac)?
+</h1>
+<a asp-action="Index" class="btn btn-success"><i class="fas fa-arrow-left"></i></a>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cod_paciente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cod_paciente)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nom_pac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nom_pac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ape_pac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ape_pac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.edad_pac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.edad_pac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dni)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dni)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.sexo_pac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sexo_pac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.fec_nac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.fec_nac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.contac_emer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.contac_emer)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cod_medico)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cod_medico)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cod_area)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cod_area)
+        </dd>
+    </dl>
+    
+    <form asp-action="eliminarPaciente">
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+    </form>
+</div>

@@ -1,0 +1,76 @@
+﻿@model proyectoHospital.Models.Paciente
+
+@{
+    ViewData["Title"] = "agregarPaciente";
+}
+
+<h1>Agregar Paciente</h1>
+<a asp-action="Index" class="btn btn-success"><i class="fas fa-arrow-left"></i></a>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="agregarPaciente">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nom_pac" class="control-label"></label>
+                <input asp-for="nom_pac" class="form-control" />
+                <span asp-validation-for="nom_pac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ape_pac" class="control-label"></label>
+                <input asp-for="ape_pac" class="form-control" />
+                <span asp-validation-for="ape_pac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="edad_pac" class="control-label"></label>
+                <input asp-for="edad_pac" class="form-control" />
+                <span asp-validation-for="edad_pac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dni" class="control-label"></label>
+                <input asp-for="dni" class="form-control" />
+                <span asp-validation-for="dni" class="text-danger"></span>
+            </div><br />
+            <div class="input-group mb-3">
+                <label asp-for="sexo_pac" class="input-group-text" for="inputGroupSelect01">Sexo</label>
+                <select asp-for="sexo_pac" class="form-select" id="inputGroupSelect01">
+                    <option value="" disabled selected>Seleccionar</option>
+                    <option value="M">Masculino</option>
+                    <option value="F">Femenino</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="fec_nac" class="control-label"></label>
+                <input asp-for="fec_nac" class="form-control" />
+                <span asp-validation-for="fec_nac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="contac_emer" class="control-label"></label>
+                <input asp-for="contac_emer" class="form-control" />
+                <span asp-validation-for="contac_emer" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="input-group mb-3">
+                <label asp-for="cod_medico" class="input-group-text" for="inputGroupSelect01">Médico</label>
+                <select asp-for="cod_medico" asp-items="ViewBag.medico" class="form-select" id="inputGroupSelect01"> </select>
+            </div>
+            <div class="input-group mb-3">
+                <label asp-for="cod_area" class="input-group-text" for="inputGroupSelect01">Área</label>
+                <select asp-for="cod_area" asp-items="ViewBag.area" class="form-select" id="inputGroupSelect01"> </select>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @ViewBag.mensaje
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

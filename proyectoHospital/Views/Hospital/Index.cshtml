@@ -1,0 +1,93 @@
+﻿@model IEnumerable<proyectoHospital.Models.Paciente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Listado de Pacientes</h1>
+<p  >
+    <a asp-action="agregarPaciente" class="btn btn-primary"><i class="fas fa-user-plus"></i></a>
+</p>
+@if (TempData["MensajeAlerta"] != null || TempData["MensajeAgregar"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["MensajeAlerta"]
+        @TempData["MensajeAgregar"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+        </button>
+    </div>
+}
+@if (TempData["MensajeEliminar"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["MensajeEliminar"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+        </button>
+    </div>
+}
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.nom_pac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ape_pac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.edad_pac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sexo_pac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contac_emer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cod_medico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cod_area)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.nom_pac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ape_pac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.edad_pac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sexo_pac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contac_emer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cod_medico)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cod_area)
+                </td>
+            <td>
+                <a asp-action="actualizarPaciente" asp-route-id="@item.cod_paciente" class="btn btn-info"><i class="fas fa-pen"></i></a>
+                <a asp-action="infoPaciente" asp-route-id="@item.cod_paciente" class="btn btn-warning"><i class="fas fa-info-circle"></i></a>
+                <a asp-action="eliminarPaciente" asp-route-id="@item.cod_paciente" class="btn btn-danger"><i class="fas fa-trash-alt"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
